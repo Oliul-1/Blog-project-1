@@ -1,0 +1,9 @@
+h1 {
+    color: chartreuse;
+}
+
+p {
+    font-weight: 50px;
+    background-color: chartreuse;
+    border: 3px solid red;
+}
